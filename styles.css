@@ -1,0 +1,49 @@
+/*font: For sans-serif: Helvetica Neue, Helvetica, Arimo, Liberation Sans, Lucida Grande, sans-serif.*/
+
+
+p {
+  font-family: sans-serif;
+}
+
+a {
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #0645AD;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.main-text {
+  margin-top: 40px;
+  font-size: 20px;
+  line-height: 29px;
+}
+
+#welcome {
+  text-align: right;
+  font-weight: bold;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.footer p {
+  text-align: center;
+  font-size: 13px;
+  line-height: 20px
+}
+
+hr {
+  background-color: black;
+}
+
+.end-links {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 300px;
+  font-size: 13px;
+}
